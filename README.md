@@ -7,11 +7,12 @@
 ## Curiosidades:
 
 
-- Estagiário de Infraestrutura.
-- Graduando em Pós Graduação em Segurança da Informação   (Conclusão Setembro 2022).
+- Estagiário em Análise e Sistemas Automotivos.
 - Graduando em Análise e Desenvolvimento de Sistemas (Conclusão Dezembro 2023).
-- Interesses: HTML5, CSS, JavaScript, Python, Java, SQL e Muito mais...
-- Estudando: Bootcamp Java Developer da Empresa Amdocs e DIO com duração de 88 horas com foco na Tecnologia JAVA.
+- Pós Graduação em Segurança da Informação   (Concluido em Outubro 2022).
+- Graduando em Mecatronica Industrial (Concluido em Dezembro 2020).
+- Interesses: HTML5, CSS, JavaScript, Python, Java, SQL, Segurança da Informação, Pentest, Eletronica, Impressão 3D e Muito mais...
+- Concluido o Bootcamp Java Developer da Empresa Amdocs e Digital Inovation One com duração de 88 horas com foco na Tecnologia JAVA.
 
 
 
