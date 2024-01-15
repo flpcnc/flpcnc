@@ -2,16 +2,21 @@
 
 ## Sobre Mim
 - 👨‍💻 Estagiário em Análise e Sistemas Automotivos.
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas (Conclusão em Dezembro 2023).
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (Concluída em Dezembro 2023).
+- 🎓 Extensão Universitária em Transformação Digital e Inovação 40 Horas - (Concluída em 29/06/23).
 - 🎓 Pós-Graduação em Segurança da Informação (Concluída em Outubro 2022).
 - 🎓 Graduação em Mecatrônica Industrial (Concluída em Dezembro 2020).
+
 - 🌟 Interesses: HTML5, CSS, JavaScript, Python, Java, SQL, Segurança da Informação, Pentest, Eletrônica, Impressão 3D e muito mais.
-- 🚀 Concluí o Bootcamp Java Developer da Empresa Amdocs e Digital Innovation One com duração de 88 horas, com foco na Tecnologia Java.
+
+- 🚀 Concluí o Bootcamp Cibersegurança da Empresa Santander e DIO com duração de 53 horas. (14/01/2024)  
+- 🚀 Concluí o Bootcamp Ciência de Dados com Python da Empresa Santander e DIO com duração de 89 horas. (22/10/2023)
+- 🚀 Concluí o Bootcamp Java Developer da Empresa Amdocs e DIO com duração de 88 horas, com foco na Tecnologia Java. (12/02/2022)
 
 ## Experiência Profissional
-- 🛠️ Estagiário em Análise e Desenvolvimento de Sistemas Automotivos.
-- 🛠️ Estagiário em Tecnologia da Informação - infraestrutura.
-- 🛠️ Inspetor de Qualidade Jr - Recebimento Materiais
+- 🛠️ Estagiário em Análise e Desenvolvimento de Sistemas Automotivos. (2022 - 2023) 
+- 🛠️ Estagiário em Tecnologia da Informação - infraestrutura. ( 2021 - 2022 )
+- 🛠️ Inspetor de Qualidade Jr - Recebimento Materiais ( 2015 - 2021 )
 
 ## Principais Projetos
 - [Monitor de Condições Ambientais](https://github.com/flpcnc/Pi-Pico-Projects): Este repositório contém código e informações sobre como interagir com diferentes sensores usando o Raspberry Pi Pico e MicroPython e o Codigo e a Montagem de um Monitor de Condições Ambientais, que pode ser útil para monitorar as condições ambientais em um local específico e pode ser adaptado para diversos fins, como monitoramento de temperatura e umidade em ambientes internos ou externos. Os dados registrados podem ser posteriormente utilizados para análises ou para tomar ações com base nas condições ambientais.
