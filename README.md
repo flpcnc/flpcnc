@@ -26,7 +26,6 @@
 
 - [Monitoramento de Umidade do Solo](https://github.com/flpcnc/Monitoramento-de-Umidade-do-Solo): Este projeto tem como objetivo criar um dispositivo simples que monitora a umidade do solo e relata os dados em tempo real. Isso pode ser usado como parte de um sistema de monitoramento de cultivo agrícola. [EM ANDAMENTO...]
 
-
 ## Habilidades
 - 💻 Linguagens de Programação: Python, JavaScript, Java, SQL
 - 🌐 Desenvolvimento Web: HTML5, CSS3
@@ -34,8 +33,7 @@
 - 🤖 Mecatrônica: Controle de Sistemas Eletrônicos e Mecânicos
 - 🌟 Outras Habilidades: Eletrônica, Impressão e Modelagem 3D
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpcnc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpcnc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou aprendendo
 <div style="display: inline_block"><br/> 
@@ -61,16 +59,8 @@
     </a>
 </p>
 
-
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=flpcnc&show_icons=true&theme=dracula)
 
-
-<p align="center"> 
-
- ### Total de Visitas no Perfil <br>
- <p align="left"> 
-   <img alingn="left" src="https://profile-counter.glitch.me/flpcnc/count.svg" />
- </p>
-
-</p>
+## Total de Visitas no Perfil
+![Contador de Visitas](https://web-production-profile-views.up.railway.app/count.svg?user=flpcnc&color=green&width=140&height=28)
