@@ -63,4 +63,4 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=flpcnc&show_icons=true&theme=dracula)
 
 ## Total de Visitas no Perfil
-![Contador de Visitas](https://web-production-profile-views.up.railway.app/count.svg?user=flpcnc&color=green&width=140&height=28)
+![Contador de Visitas](https://web-production-profile-views.up.railway.app/count.svg?user=flpcnc&color=green&width=140&height=28&cachebust=1234567890)
