@@ -22,7 +22,9 @@
 - 🛠️ Inspetor de Qualidade Jr - Recebimento Materiais ( 2015 - 2021 )
 
 ## Principais Projetos
-- [Monitor de Condições Ambientais](https://github.com/flpcnc/Pi-Pico-Projects): Este repositório contém código e informações sobre como interagir com diferentes sensores usando o Raspberry Pi Pico e MicroPython e o Codigo e a Montagem de um Monitor de Condições Ambientais, que pode ser útil para monitorar as condições ambientais em um local específico e pode ser adaptado para diversos fins, como monitoramento de temperatura e umidade em ambientes internos ou externos. Os dados registrados podem ser posteriormente utilizados para análises ou para tomar ações com base nas condições ambientais.
+- [Monitor de Condições Ambientais](https://github.com/flpcnc/Pi-Pico-Projects): Repositório com código e informações para interagir com sensores (DHT11, BMP280, YF-S201) usando Raspberry Pi Pico e MicroPython. 
+Inclui exemplos individuais, montagem e um projeto integrado de monitoramento ambiental com display OLED e registro em CSV. 
+Fácil de configurar e expandir para diferentes aplicações (monitoramento de temperatura, umidade, pressão, fluxo de água, etc).
 
 - [Monitoramento de Umidade do Solo](https://github.com/flpcnc/Monitoramento-de-Umidade-do-Solo):  
   Este projeto implementa um sistema de **monitoramento da umidade do solo, temperatura e umidade do ar** utilizando **Raspberry Pi Pico com MicroPython**.  
