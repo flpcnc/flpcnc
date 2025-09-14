@@ -24,7 +24,11 @@
 ## Principais Projetos
 - [Monitor de Condições Ambientais](https://github.com/flpcnc/Pi-Pico-Projects): Este repositório contém código e informações sobre como interagir com diferentes sensores usando o Raspberry Pi Pico e MicroPython e o Codigo e a Montagem de um Monitor de Condições Ambientais, que pode ser útil para monitorar as condições ambientais em um local específico e pode ser adaptado para diversos fins, como monitoramento de temperatura e umidade em ambientes internos ou externos. Os dados registrados podem ser posteriormente utilizados para análises ou para tomar ações com base nas condições ambientais.
 
-- [Monitoramento de Umidade do Solo](https://github.com/flpcnc/Monitoramento-de-Umidade-do-Solo): Este projeto tem como objetivo criar um dispositivo simples que monitora a umidade do solo e relata os dados em tempo real. Isso pode ser usado como parte de um sistema de monitoramento de cultivo agrícola. [Em Desenvolvimento...]
+- [Monitoramento de Umidade do Solo](https://github.com/flpcnc/Monitoramento-de-Umidade-do-Solo):  
+  Este projeto implementa um sistema de **monitoramento da umidade do solo, temperatura e umidade do ar** utilizando **Raspberry Pi Pico com MicroPython**.  
+  Os dados são coletados periodicamente, processados em médias a cada ciclo de 1 minuto e salvos em arquivo CSV.  
+  Possui **calibração personalizada do sensor de solo** e um **modo híbrido com Deep Sleep**, permitindo operação eficiente tanto em testes via USB quanto em uso real com bateria.  
+  Aplicável em sistemas de monitoramento agrícola, automação residencial, projetos de IoT e estações ambientais.
 
 ## Habilidades
 - 💻 Linguagens de Programação: Python, JavaScript, Java, SQL
